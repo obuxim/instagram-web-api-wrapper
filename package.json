@@ -1,0 +1,16 @@
+{
+  "name": "zhanel",
+  "version": "0.0.1",
+  "description": "Instagram API for Zhanel Gabit",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Zubair Hasan",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "instagram-web-api": "^2.2.2"
+  }
+}
